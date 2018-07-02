@@ -6,7 +6,7 @@ footer_links:
       - name: Webinars
         link: /webinars/
       - name: Blog
-        links: /blog/
+        link: /blog/
   - name: Resources
     links:
       - name: Members
@@ -14,7 +14,7 @@ footer_links:
       - name: Contact Us
         link: /contact/
       - name: About Us
-        links: /about/
+        link: /about/
   - name: Membership
     links:
       - name: Become a Member
