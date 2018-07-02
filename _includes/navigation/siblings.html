@@ -1,4 +1,4 @@
-{% assign sites = site.data.navigation.siblings[jekyll.environment] %}
+{% assign sites = site.data.navigation.siblings.topbar_links %}
 <nav class="siblings {% if page.header_class == 'plain' or layout.header_class == 'plain' %}light{% else %}dark{% endif %}">
 	{% assign no_active = true %}
 	<div class="nav-bar wrapper wrapper-large">

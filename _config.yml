@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: CloudCannon
-description: CloudCannon has everything you need to build, host and update Jekyll websites.
-url: https://cloudcannon.com
-disqus_shortname: cloudcannon
+title: CloudFx
+description: CloudFx is a non-profit community of developer for developers.
+url: https://cloudfx.github.io
+disqus_shortname: cloudfx
 baseurl:
 
 active_sibling:
@@ -12,10 +12,19 @@ main_url:
 google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
 permalink: pretty
 
+footer:
+  contact_us:
+    email: codefxcommunity@gmail.com
+  copyright: CloudFx Community
+  social:
+    twitter: cloudfxcommunity
+    facebook: cloudfxcommunity
+    google: cloudfxcommunity
+    youtube: cloudfxcommunity
 # ----------
 # SEO plugin
 
-lang: en_NZ
+lang: en_US
 logo: /siteicon.png
 
 plugins:
