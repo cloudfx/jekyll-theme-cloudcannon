@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-cloudcannon"
+  spec.name          = "jekyll-theme-cloudfx"
   spec.version       = "0.1.0"
-  spec.authors       = ["CloudCannon"]
-  spec.email         = ["george@cloudcannon.com"]
+  spec.authors       = ["CloudFx"]
+  spec.email         = ["cloudfxcommunity@gmail.com"]
 
-  spec.summary       = "The jekyll theme for any site within the CloudCannon company."
-  spec.homepage      = "https://cloudcannon.com"
+  spec.summary       = "The jekyll theme for the CloudFx Community."
+  spec.homepage      = "https://cloudfx.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
